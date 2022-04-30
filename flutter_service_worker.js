@@ -3,13 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e2eeef76b362643bf2c43713b9d14a87",
+  "assets/AssetManifest.json": "ef0788a9690d1f70ffb12f79c9ef2f28",
+"assets/assets/fonts/CourierPrime-Regular.ttf": "03ef685b34f3356631c3f60c91917002",
+"assets/assets/fonts/Lato-Bold.ttf": "85d339d916479f729938d2911b85bf1f",
+"assets/assets/fonts/Lato-Regular.ttf": "2d36b1a925432bae7f3c53a340868c6e",
 "assets/assets/icons/chat.svg": "6603c9da23d55c3ab75cf052cf2e5b53",
 "assets/assets/icons/login.svg": "a7711b1f104c98c8ae18420653074837",
 "assets/assets/icons/signup.svg": "2fa408c0387578db0675dc11edc3e0fa",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/assets/images/contact_less.png": "7f9697a615c6992b0c36db43b7b58aad",
+"assets/assets/images/mastercard.png": "e693816ad555e89d711f29944f8f71e5",
+"assets/FontManifest.json": "79553aac389cd2234078decc3a3e3267",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "9000a304de8f6486b2ba7ca9f7488eed",
+"assets/NOTICES": "2e83994b88784ecd10f106a83a694728",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
@@ -20,9 +25,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "bc9807b0da1cc6f35598cb2af6e82c15",
-"/": "bc9807b0da1cc6f35598cb2af6e82c15",
-"main.dart.js": "315a198c4319fe7ee28d22cf0b1e57ab",
+"index.html": "cd133e1c4814aafe3a2582f7678c3f7f",
+"/": "cd133e1c4814aafe3a2582f7678c3f7f",
+"main.dart.js": "26f0d1fe9455672198c6cafbd8e312dd",
 "manifest.json": "4b981e89582e6ed8a6275329a65f22a6",
 "version.json": "8767334c2e90ca2c1ac68608e193dba6"
 };
